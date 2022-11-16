@@ -1,5 +1,5 @@
 # Mathieu Sauvenier
-PhD student at [Center for Operations Research and Econometrics](https://uclouvain.be/fr/node/4474) in Université Catholique de Louvain 
+PhD student at [Center for Operations Research and Econometrics](https://uclouvain.be/fr/node/4474), Université Catholique de Louvain 
 * **Field:** Theoretical econometrics
 * **Supervisor:** Sébastien Van Bellegem
 * **Thesis:** High dimensional sparse econometric models 
