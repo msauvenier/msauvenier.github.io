@@ -7,6 +7,7 @@ PhD student at [Center for Operations Research and Econometrics](https://uclouva
 TA at [Economic School of Louvain](https://uclouvain.be/en/faculties/espo/esl)
 * Economie politique (BA1)
 * Macroeconomie (BA2)
+* Mathematics and Statistics for Economics (MA)
 * Advanced econometrics I (MA)
 
 
