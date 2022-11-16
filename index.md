@@ -14,4 +14,4 @@ Author for [Regards economiques](https://www.regards-economiques.be/index.php/au
 
 ## Publications
 
-Baurin A., Bodart V., Dallemagne G., Lachapelle N., Ounnas A., Pourtois M., Sauvenier M., Van Keirsbilck L. (2022). Perspectives économiques 2022-2023, Regards économiques, Numéro, 172. [ [PDF](https://www.regards-economiques.be/index.php/index.php?option=com_reco&view=article&cid=207) ](https://www.regards-economiques.be/images/reco-pdf/reco_207.pdf)]
+Baurin A., Bodart V., Dallemagne G., Lachapelle N., Ounnas A., Pourtois M., Sauvenier M., Van Keirsbilck L. (2022). Perspectives économiques 2022-2023, Regards économiques, Numéro, 172. [ [PDF](https://www.regards-economiques.be/images/reco-pdf/reco_224.pdf)]
