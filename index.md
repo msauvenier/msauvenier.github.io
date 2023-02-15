@@ -2,7 +2,7 @@
 PhD student at [Center for Operations Research and Econometrics](https://uclouvain.be/fr/node/4474), Université Catholique de Louvain 
 * **Field:** Theoretical econometrics
 * **Supervisor:** Sébastien Van Bellegem
-* **Thesis:** High dimensional sparse econometric models 
+* **Thesis:** Identification and Inference in High dimensional econometric models 
 
 TA at [Economic School of Louvain](https://uclouvain.be/en/faculties/espo/esl)
 * Economie politique (BA1)
