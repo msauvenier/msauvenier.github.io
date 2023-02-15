@@ -12,7 +12,7 @@ TA at [Economic School of Louvain](https://uclouvain.be/en/faculties/espo/esl)
 
 
 Author for [Regards economiques](https://www.regards-economiques.be/index.php/auteurs?cid=162)
-## Working Papers
+## Discussion Papers
 
 Sauvenier, Mathieu ; Van Bellegem, Sébastien. *Direction Identification and Minimax Estimation by Generalized Eigenvalue Problem in High Dimensional Sparse Regression.* LIDAM Discussion Paper CORE ; 2023/05 (2023) 53 pages [[PDF](https://dial.uclouvain.be/pr/boreal/en/object/boreal%3A272429/datastream/PDF_01/view)]
 
