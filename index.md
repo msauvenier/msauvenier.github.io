@@ -14,7 +14,7 @@ TA at [Economics School of Louvain](https://uclouvain.be/en/faculties/espo/esl)
 Author for [Regards economiques](https://www.regards-economiques.be/index.php/auteurs?cid=162)
 ## Discussion Papers
 
-Sauvenier, Mathieu ; Van Bellegem, Sébastien. Goodness-of-fit test in high-dimensional linear sparse models. LIDAM Discussion Paper CORE ; 2023/08 (2023) 14 pages [[PDF](https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A273576/datastream/PDF_01/view)]
+Sauvenier, Mathieu ; Van Bellegem, Sébastien. *Goodness-of-fit test in high-dimensional linear sparse models.* LIDAM Discussion Paper CORE ; 2023/08 (2023) 14 pages [[PDF](https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A273576/datastream/PDF_01/view)]
 
 Sauvenier, Mathieu ; Van Bellegem, Sébastien. *Direction Identification and Minimax Estimation by Generalized Eigenvalue Problem in High Dimensional Sparse Regression.* LIDAM Discussion Paper CORE ; 2023/05 (2023) 53 pages [[PDF](https://dial.uclouvain.be/pr/boreal/en/object/boreal%3A272429/datastream/PDF_01/view)]
 
