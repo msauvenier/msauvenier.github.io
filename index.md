@@ -1,6 +1,5 @@
 # Mathieu Sauvenier
 
-Resume [[PDF](https://github.com/msauvenier/msauvenier.github.io/blob/main/Resume.pdf)]
 
 PhD student at [Center for Operations Research and Econometrics](https://uclouvain.be/fr/node/4474), Université Catholique de Louvain 
 * **Field:** Theoretical econometrics
