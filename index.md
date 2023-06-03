@@ -23,7 +23,12 @@ Sauvenier, Mathieu ; Van Bellegem, Sébastien. *Direction Identification and Min
 
 ## Seminars, Workshops and conferences
 
-**2023**: 23rd European Young Statiticians Meeting (Forcoming- september 2023), FNRS Contact Group 'Wavelets and Application' (ULB), Brown Bag Seminar (CORE) **2021**: 4th International Conference on Econometrics and Statistics (EcoSta 2021), UCLouvain (doctoral workshop) **2019**: UCLouvain (doctoral workshop) **2018**: Belgian Financial Research Forum (National Bank of Belgium), UCLouvain (doctoral workshop)**2017**: UCLouvain (doctoral workshop) **2016**: UCLouvain (doctoral workshop).
+**2023**: 23rd European Young Statiticians Meeting (Forcoming- september 2023), FNRS Contact Group 'Wavelets and Application' (ULB), Brown Bag Seminar (CORE) 
+**2021**: 4th International Conference on Econometrics and Statistics (EcoSta 2021), UCLouvain (doctoral workshop) 
+**2019**: UCLouvain (doctoral workshop) 
+**2018**: Belgian Financial Research Forum (National Bank of Belgium), UCLouvain (doctoral workshop)
+**2017**: UCLouvain (doctoral workshop) 
+**2016**: UCLouvain (doctoral workshop).
 
 ## Economic Reports 
 
