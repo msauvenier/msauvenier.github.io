@@ -21,15 +21,6 @@ Sauvenier, Mathieu ; Van Bellegem, Sébastien. *Goodness-of-fit test in high-dim
 
 Sauvenier, Mathieu ; Van Bellegem, Sébastien. *Direction Identification and Minimax Estimation by Generalized Eigenvalue Problem in High Dimensional Sparse Regression.* LIDAM Discussion Paper CORE ; 2023/05 (2023) 53 pages [[PDF](https://dial.uclouvain.be/pr/boreal/en/object/boreal%3A272429/datastream/PDF_01/view)]
 
-## Seminars, Workshops and conferences
-
-**2023**: 23rd European Young Statiticians Meeting (Forcoming- september 2023), FNRS Contact Group 'Wavelets and Application' (ULB), Brown Bag Seminar (CORE) 
-**2021**: 4th International Conference on Econometrics and Statistics (EcoSta 2021), UCLouvain (doctoral workshop) 
-**2019**: UCLouvain (doctoral workshop) 
-**2018**: Belgian Financial Research Forum (National Bank of Belgium), UCLouvain (doctoral workshop)
-**2017**: UCLouvain (doctoral workshop) 
-**2016**: UCLouvain (doctoral workshop).
-
 ## Economic Reports 
 
 Baurin A., Bodart V., Dallemagne G., Lachapelle N., Ounnas A., Pourtois M., Sauvenier M., Van Keirsbilck L. (2022). *Perspectives économiques 2022-2023*, Regards économiques, Numéro, 172. [[PDF](https://www.regards-economiques.be/images/reco-pdf/reco_224.pdf)]
@@ -47,3 +38,12 @@ Attanasi G., Bodart V., Courtoy F., Fontenay S., Lachapelle N., Ounnas A., Sauve
 Attanasi G., Bodart V., Courtoy F., Fontenay S., Ounnas A., Sauvenier M. (2019). *Perspectives économiques 2019-2020*, Regards économiques, Numéro, 149. [[PDF](https://www.regards-economiques.be/images/reco-pdf/reco_192.pdf)]
 
 Attanasi G., Bodart V., Courtoy F., Fontenay S., Ounnas A., Sauvenier M. (2019). *Perspectives économiques 2019*, Regards économiques, 143. [[PDF](https://www.regards-economiques.be/images/reco-pdf/reco_186.pdf)]
+
+## Seminars, Workshops and conferences
+
+**2023**: 23rd European Young Statiticians Meeting (Forcoming- september 2023), FNRS Contact Group 'Wavelets and Application' (ULB), Brown Bag Seminar (CORE) -
+**2021**: 4th International Conference on Econometrics and Statistics (EcoSta 2021), UCLouvain (doctoral workshop) -
+**2019**: UCLouvain (doctoral workshop) -
+**2018**: Belgian Financial Research Forum (National Bank of Belgium), UCLouvain (doctoral workshop) -
+**2017**: UCLouvain (doctoral workshop) -
+**2016**: UCLouvain (doctoral workshop).
