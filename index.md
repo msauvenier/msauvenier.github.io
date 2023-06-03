@@ -2,7 +2,7 @@
 
 Resume [[PDF](https://github.com/msauvenier/msauvenier.github.io/blob/main/Resume.pdf)]
 
-Phd in Economics and management (Econometrics) at [Center for Operations Research and Econometrics](https://uclouvain.be/fr/node/4474), Université Catholique de Louvain 
+PhD in Economics and management (Econometrics) at [Center for Operations Research and Econometrics](https://uclouvain.be/fr/node/4474), Université Catholique de Louvain 
 * **Field:** Theoretical econometrics
 * **Supervisor:** Sébastien Van Bellegem
 * **Thesis:** Identification and Inference in High dimensional econometric models 
