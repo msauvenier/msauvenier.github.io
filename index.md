@@ -41,7 +41,7 @@ Attanasi G., Bodart V., Courtoy F., Fontenay S., Ounnas A., Sauvenier M. (2019).
 
 ## Seminars, Workshops and conferences
 
-**2023**: 23rd European Young Statiticians Meeting (Forcoming- september 2023), FNRS Contact Group 'Wavelets and Application' (ULB), Brown Bag Seminar (CORE) -
+**2023**: CMStatistics 2023 [Berlin], 23rd European Young Statiticians Meeting [Online], FNRS Contact Group 'Wavelets and Application' (ULB)[Brussels], Brown Bag Seminar (CORE) [Louvain-la-Neuve] -
 **2021**: 4th International Conference on Econometrics and Statistics (EcoSta 2021), UCLouvain (doctoral workshop) -
 **2019**: UCLouvain (doctoral workshop) -
 **2018**: Belgian Financial Research Forum (National Bank of Belgium), UCLouvain (doctoral workshop) -
